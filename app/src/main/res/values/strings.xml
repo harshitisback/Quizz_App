@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyQuizz</string>
+    <string name="txtCredits"><a href="https://github.com/harshitisback">©harshitisback</a></string>
+</resources>

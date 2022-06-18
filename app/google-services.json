@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612270924019",
+    "project_id": "quizca2-c98d7",
+    "storage_bucket": "quizca2-c98d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612270924019:android:c115e862b77f88e5dd9786",
+        "android_client_info": {
+          "package_name": "com.example.quizca2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612270924019-v9jr3pr8chr15f24q1rqi713tgddbvep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSndQmmSEJ9rI5VdzI5HTfrMbeXifKsc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612270924019-v9jr3pr8chr15f24q1rqi713tgddbvep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
