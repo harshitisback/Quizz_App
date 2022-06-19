@@ -18,9 +18,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        github = (TextView) findViewById(R.id.infoTxtCredits);
-        welcome = (TextView)findViewById(R.id.welcome);
-        welcome.setTypeface(null, Typeface.BOLD_ITALIC);
+
 //        github.setMovementMethod(LinkMovementMethod.getInstance());
         github.setOnClickListener(new View.OnClickListener() {
             @Override
